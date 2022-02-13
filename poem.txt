@@ -8,12 +8,12 @@ and now she's using it daily!
 
 She started with html,
 and believed it was going quite swell,
-so she added some css,
-to pretty the mess,
-and dabbled with javascript as well!
+css was next,
+to pretty the text,
+and she dabbled with javascript as well!
 
-Next up was GitHub,
-the tech version of a pub..?
-it was a bit of a challenge,
-but she thinks she can manage,
-let's hope it doesn't end up a dud!
+Then there was an intro to GitHub,
+to make her a part of 'the club',
+a new concept to master,
+hoping it's not a disaster,
+but if it is there is always the pub!
