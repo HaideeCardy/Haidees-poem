@@ -5,3 +5,9 @@ Her brain was feeling quite lazy,
 So she began to code,
 kick started learning mode,
 and now she's using it daily!
+
+She started with html,
+and believed it was going quite swell,
+So she added some css to pretty the mess,
+And dabbled with javascript as well!
+
