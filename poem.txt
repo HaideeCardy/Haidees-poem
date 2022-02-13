@@ -1,13 +1,19 @@
 Haidee's Poem
 
 There was once a girl called Haidee,
-Her brain was feeling quite lazy,
-So she began to code,
-kick started learning mode,
+her brain was feeling quite lazy,
+so she began to code,
+kick-started learning mode,
 and now she's using it daily!
 
 She started with html,
 and believed it was going quite swell,
-So she added some css to pretty the mess,
-And dabbled with javascript as well!
+so she added some css,
+to pretty the mess,
+and dabbled with javascript as well!
 
+Next up was GitHub,
+the tech version of a pub..?
+it was a bit of a challenge,
+but she thinks she can manage,
+let's hope it doesn't end up a dud!
